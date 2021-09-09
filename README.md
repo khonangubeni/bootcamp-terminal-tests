@@ -1,1 +1,0 @@
-# bootcamp-terminal-tests
